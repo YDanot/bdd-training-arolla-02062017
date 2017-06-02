@@ -1,6 +1,3 @@
-# Compiled class file
-*.class
-
 # Log file
 *.log
 
@@ -22,7 +19,6 @@
 hs_err_pid*
 
 # IntelliJ
-*.iml
 .idea
 
 #Maven
